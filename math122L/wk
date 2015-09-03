@@ -1,0 +1,1 @@
+latex basicCalc.tex && dvipdf basicCalc.dvi basicCalc.pdf
